@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'icomoon2';
+    src: url('icomoon2.eot');
+    src: url('icomoon2.eot#iefix') format('embedded-opentype'), url('icomoon2.ttf') format('truetype'), url('icomoon2.woff') format('woff'), url('icomoon2.svg#icomoon2') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-2-"],
+[class*=" icon-2-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon2' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-2-blood-clot:before {
+    content: "\e900";
+}
+
+.icon-2-clogged-arteries:before {
+    content: "\e901";
+}
+
+.icon-2-kidneys:before {
+    content: "\e902";
+}
+
+.icon-2-knee-stiffness:before {
+    content: "\e903";
+}
+
+.icon-2-liver:before {
+    content: "\e904";
+}
+
+.icon-2-muscule:before {
+    content: "\e905";
+}
+
+.icon-2-pelvic-congestion:before {
+    content: "\e906";
+}
+
+.icon-2-prostate:before {
+    content: "\e907";
+}
+
+.icon-2-spleen:before {
+    content: "\e908";
+}
+
+.icon-2-stomach:before {
+    content: "\e909";
+}
+
+.icon-2-thyroid:before {
+    content: "\e90a";
+}
+
+.icon-2-uterus:before {
+    content: "\e90b";
+}
+
+.icon-2-vascular:before {
+    content: "\e90c";
+}
+
+.icon-2-veins:before {
+    content: "\e90d";
+}
